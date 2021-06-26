@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ERocks
 {
-    public class WC
+    public static class WC
     {
         public static string ImagePath = @"\images\product\";
     }
